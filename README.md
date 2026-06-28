@@ -13,8 +13,7 @@
 
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Statshttps://github-profile-trophy.vercel.app/?username=kewbx&theme=onedark
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kewbx&show_icons=true&theme=github_dark)
-![Trophy](https://github-profile-trophy.vercel.app/?username=kewbx&theme=onedark)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kewbx&theme=github-dark)
