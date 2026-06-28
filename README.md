@@ -1,6 +1,6 @@
 # 👋 About Me
 
-한국에서 활동하는 Roblox 풀스택 개발자입니다.
+🇰🇷 Roblox Full-Stack Developer
 
 ## 💻 Tech Stack
 
@@ -13,7 +13,6 @@
 
 
 
-## 📊 GitHub Statshttps://github-profile-trophy.vercel.app/?username=kewbx&theme=onedark
-
+## 📊 GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kewbx&show_icons=true&theme=github_dark)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kewbx&theme=github-dark)
