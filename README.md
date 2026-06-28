@@ -15,6 +15,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?kewbx=YOUR_USERNAME&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?kewbx=kewbx&show_icons=true&theme=github_dark)
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NAME&layout=compact&theme=tokyonight)
