@@ -15,6 +15,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?kewbx=kewbx&show_icons=true&theme=github_dark)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kewbx&show_icons=true&theme=github_dark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=kewbx&theme=onedark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kewbx&theme=github-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kewbx&layout=compact&theme=github_dark)
